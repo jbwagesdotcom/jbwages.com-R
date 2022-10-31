@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "/opt/homebrew/Cellar/r/4.2.1_4/lib/R/library",
+        "installDependencies": true
+    }
+}
